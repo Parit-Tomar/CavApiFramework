@@ -1,0 +1,36 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-04T08:26:02.237Z",
+        "line": 3,
+        "name": "Verify if custom alert is added",
+        "description": "",
+        "id": "generating-custom-alert;verify-if-custom-alert-is-added",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5925000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Add details for custom alerts",
+            "match": {
+              "location": "stepDefinations.StepDefination.add_details_for_custom_alerts()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Generating Custom Alert",
+    "description": "",
+    "id": "generating-custom-alert",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/features/placeValidations.feature",
+    "tags": []
+  }
+]
