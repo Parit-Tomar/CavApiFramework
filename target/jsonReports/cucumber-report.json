@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-04-04T08:26:02.237Z",
+        "start_timestamp": "2021-04-04T09:03:38.734Z",
         "line": 3,
         "name": "Verify if custom alert is added",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5925000000,
+              "duration": 5298000000,
               "status": "passed"
             },
             "line": 5,
